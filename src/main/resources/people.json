@@ -1,0 +1,29 @@
+{
+	"people": [
+		{
+			"rut": "12345678-9",
+			"name": "Juan Pérez"
+		},
+		
+		{
+			"rut": "12686220-2",
+			"name": "Pedro Fernández"
+		},
+		
+		{
+			"rut": "1-2",
+			"name": "Juan Pérez"
+		},
+		
+		{
+			"rut": "8586655-9",
+			"name": "Juan Pérez"
+		},
+		
+		{
+			"rut": "19351062-0",
+			"name": "Emilio Aldunate"
+		}
+		
+	]
+}
